@@ -1,0 +1,14 @@
+{
+  "name": "loginforeach",
+  "version": "1.0.0",
+  "description": "login with forEach",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
