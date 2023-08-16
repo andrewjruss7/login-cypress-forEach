@@ -11,6 +11,8 @@ describe('Login with .forEach()', function() {
     cy.visit('https://www.saucedemo.com/');
   });
 
+  // Andrew es chévere!
+
   credentials.forEach(test => {
 
     it(test.name, () => {
